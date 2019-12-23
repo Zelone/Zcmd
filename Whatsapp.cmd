@@ -1,0 +1,1 @@
+C:\Users\Jhawar\AppData\Local\WhatsApp\WhatsApp.exe

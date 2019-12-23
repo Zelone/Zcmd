@@ -1,0 +1,1 @@
+C:\Users\Jhawar\AppData\Roaming\Spotify\Spotify.exe

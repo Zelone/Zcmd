@@ -1,0 +1,1 @@
+C:\Users\Jhawar\AppData\Local\Discord\Update.exe --processStart Discord.exe
