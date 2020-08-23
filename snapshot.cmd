@@ -1,3 +1,2 @@
-cd /d "E:\MINECRAFT SERVER\min16snap" 
-run 
-C: 
+start /D "E:\MINECRAFT SERVER\min16snap" run.cmd
+ 

@@ -1,0 +1,1 @@
+bash -c "sudo service ssh stop "
