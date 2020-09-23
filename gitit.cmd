@@ -7,6 +7,7 @@ git add *.exe
 git add *.vbs
 git add *.dll
 git add *.keep
+git add *.bat
 git commit -m "%*"
 git push -u origin master
 cd /d %now%
