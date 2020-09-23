@@ -1,2 +1,5 @@
 E:
-cd JavaProjects\Nuxt\Project
+cd "JavaProjects\Rails Test\chat_test"
+start .
+code .
+start

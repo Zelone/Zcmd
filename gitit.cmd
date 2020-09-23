@@ -1,3 +1,4 @@
+@echo off
 set now=%cd%
 cd /d %Zel%
 cd Zelone
@@ -11,3 +12,4 @@ git add *.bat
 git commit -m "%*"
 git push -u origin master
 cd /d %now%
+@echo on
