@@ -18,4 +18,8 @@ Used for automating multiple entities in a computer
 * tts command
 ### RubyonRails
 * Init
-\< Not Finished \>
+
+
+
+
+\<List  Not Finished \>
