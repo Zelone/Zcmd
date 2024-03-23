@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Steam\steam.exe"
+"E:\Steam\steam.exe"

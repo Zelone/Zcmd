@@ -1,1 +1,1 @@
-C:\Users\Jhawar\AppData\Local\Programs\Python\Python36\pythonw.exe "C:\Users\Jhawar\AppData\Local\Programs\Python\Python36\Lib\idlelib\idle.pyw"
+pythonw.exe "idle.pyw"

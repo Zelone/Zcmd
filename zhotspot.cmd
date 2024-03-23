@@ -1,7 +1,6 @@
 @echo off 
 netsh wlan set hostednetwork ssid=Key Key=12345678  
 netsh wlan start hostednetwork  
-cls
 echo HOTSPOT STARTED
 echo CLICK TO STOP HOTSPOT
 pause  

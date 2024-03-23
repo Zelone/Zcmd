@@ -1,5 +1,3 @@
-E:
-cd "JavaProjects\Rails Test\chat_test"
-start .
-code .
-start
+@echo off
+echo Empty Execution 
+@echo on
