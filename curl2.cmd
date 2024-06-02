@@ -1,0 +1,1 @@
+curl -v -F file=@%1 -F folder=%~dp1 http://localhost:5000/upload
