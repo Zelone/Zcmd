@@ -44,6 +44,6 @@ def make_folder():
     return jsonify({'message': 'Folder added successfully', 'data':folder }), 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,host='0.0.0.0')
 
 
